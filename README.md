@@ -7,5 +7,7 @@
 - слайдеры.
 
 https://angiearzs.github.io/shop/
+
 https://angiearzs.github.io/shop/catalogue.html
+
 https://angiearzs.github.io/shop/product.html
